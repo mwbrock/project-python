@@ -4,7 +4,7 @@ README
 
 Copyright © July 2014 by Michael Brock
 
-This repository (a.k.a. repo) is a collection of Python programs that I wrote while doing my internship as an Instructional Support Specialist at St. Petersburg College's Learning Support Center located on the Clearwater campus, Florida (USA). These programs are from the assignments that I assisted other students with during this time and are intended to help novice Python programmers learn the language's syntax and structure. 
+This repository (a.k.a. repo) is a collection of Python programs that I wrote while doing my internship as an Instructional Support Specialist at St. Petersburg College's Learning Support Center located on the Clearwater campus, Florida (USA). These programs are from the assignments that I assisted other students with during this time and are intended to help novice Python programmers learn the language's syntax and structure. They range from beginner to intermediate in terms of the level of difficulty.
 
 Interestingly enough, I'm not formally trained in Python and am learning it as I go along in order to better help my peers taking Introduction to Computer Programming. The textbook used for the course is: Starting Out With Python (2nd ed ) by Tony Gaddis (Pearson, 2012). I welcome other programmers to submit their Python programs, tips and/or comments here for educational purposes.
 
