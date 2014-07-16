@@ -30,7 +30,7 @@ def main():
 # should be looking for from the call statement in main(). You can rename them
 # here if you want, but for this program it isn't necessary. In other words, the
 # name of a parameter can be whatever you want it to be. Just you make sure that
-# the argument you pass matches the parameter's data type.
+# the argument you pass to the function matches the parameter's data type.
 
 # The calculate_gif_storage() function accepts the size of a USB drive
 # in Gigs and calculates the number of GIF images that can be stored on it.
