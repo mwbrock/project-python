@@ -1,14 +1,15 @@
 project-python
 ==============
+
 README
 
 Copyright © July 2014 by Michael Brock
 
-This repository (a.k.a. repo) is a collection of Python programs that I wrote while doing my internship as an Instructional Support Specialist at St. Petersburg College's Learning Support Center located on the Clearwater campus, Florida (USA). These programs are from the assignments that I assisted other students with during this time and are intended to help novice Python programmers learn the language's syntax and structure. They range from beginner to intermediate in terms of the level of difficulty.
+This repository (a.k.a. repo) is a collection of Python programs that I wrote while doing my internship as an Instructional Support Specialist at St. Petersburg College's Learning Support Center located on the Clearwater campus in Florida (USA). These programs are from the assignments that I assisted other students with during this semester and are intended for educational purposes to help novice Python programmers learn the language's syntax and structure. They range from beginner to intermediate in terms of the level of difficulty.
 
-Interestingly enough, I'm not formally trained in Python and am teaching it to myself this semester in order to better help my peers taking Introduction to Computer Programming. The textbook used for the course is: Starting Out With Python (2nd ed ) by Tony Gaddis (Pearson, 2012).
+As a point of information, I'm not formally trained in Python and am teaching it to myself at this time in order to better help students taking Introduction to Computer Programming. So I am not a Python expert by any means and these programs may not be the best way to accomplish the required task. However, all of the students that I helped told me that they got "As" on their respective assignments. The textbook used for the course is *Starting Out With Python* (2nd ed.) by Tony Gaddis (Pearson, 2012).
 
-Moreover, I'm only a junior computer programmer / software developer at the moment, who is finishing up my AS degree in Computer/Web Programming and Analysis and about to graduate with high honors later this month. I'm also new to GitHub and still learning its capabilities, features, and uses, which is one of my internship learning objectives. Another one of my learning objectives involves researching open source projects and contributing something to one of them.
+Moreover, I'm only a junior computer programmer / software developer at the moment, who is finishing up my AS degree in Computer/Web Programming and Analysis and about to graduate with high honors later this month. My computer programming training was focused on C++, C# and Java, along with cross-platform mobile device and web applications development using HTML5, CSS3 and JavaScript. So I am relatively new to computer programming and admittedly still have a lot to learn. I'm also new to GitHub and still learning its capabilities, features and uses, which is one of my internship learning objectives. Another one of my learning objectives involves researching open source projects and contributing something to one of them.
 
 However, I've been very busy with not only my internship position's responsibilities but also many personal obligations and unexpected obstacles that have made completing these learning objectives quite a challenge. For example, my home computer crashed recently with the dreaded "Blue Screen of Death" due to memory and disk errors, which required a friend's help in repairing it and took over a week to fix.
 
