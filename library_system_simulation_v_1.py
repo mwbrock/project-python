@@ -39,11 +39,13 @@ QUIT_CHOICE = 3
 # used by all of the functions described in the assignment.
 books = [['Animal Farm', '0452284244'], ['Brave New World', '0060850523'], ['Catch-22', '0684833395']]
 
-# NOTE: I tried using a nested list, as shown above, but I discovered that the
-# in operator doesn't work as expected in this case, which I confirmed online
-# at: http://kracekumar.com/post/22512660850/python-in-operator-use-cases
-# So I had to resolve to making separate lists of the book titles and ISBNs,
-# with their indexes matching accordingly.
+################################################################################
+# NOTE: I tried using a nested list, as shown above, but I discovered that the #
+# in operator doesn't work as expected in this case, which I confirmed online  #
+# at: http://kracekumar.com/post/22512660850/python-in-operator-use-cases      #
+# So I had to resolve to making separate lists of the book titles and ISBNs,   #
+# with their indexes matching accordingly.                                     #
+################################################################################
 books_title = ['Animal Farm', 'Brave New World', 'Catch-22']
 books_isbn = ['0452284244', '0060850523', '0684833395']
 books_available = ['0452284244', '0060850523', '0684833395']
