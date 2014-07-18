@@ -54,7 +54,7 @@ def main():
     # and assign it to the library_card_number variable.
     library_card_number = getNumber()
 
-    # Display library_card_number to make sure we have the correct number
+    # Display library_card_number to make sure we have the correct number.
     print('\nYou entered library card number:',library_card_number)
     print('That is a valid library card number.\nWelcome! You may proceed...')
 
@@ -70,8 +70,8 @@ def main():
         # Call the getCharacter function to get the user's choice.
         choice = getCharacter()
 
-        # Create a logic control structure to handle user choices and to perform
-        # the selected action.
+        # Create a logic control structure to handle user choices
+        # and to perform the selected action.
         if choice == ISBN_SEARCH:
             # Get user input for book title.
             title = input('\nEnter book title: ')
