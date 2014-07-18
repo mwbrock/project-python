@@ -196,7 +196,7 @@ def lookUpTitle(isbn):
             print('\nSorry, that book was not found in our database.')
 
         # Is that the correct title?
-        correct_title = input('\nIs that the correct title you are looking for? Enter \"y\" or \"Y\" for yes or anything \nelse for no: ')
+        correct_title = input('\nIs that the correct title you are looking for? Enter \"y\" or \"Y\" for yes or \nanything else for no: ')
 
         if correct_title == 'y' or correct_title == 'Y':
             # Could've used lower() or upper() above,
