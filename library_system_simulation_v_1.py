@@ -18,7 +18,7 @@
 # that the students are required to implement and use in their code whenever
 # they are appropriate.
 
-import sys # Required for sys.exit() function. (NOT in textbook!)
+import sys # Required for sys.exit function. (NOT in textbook!)
 
 # Create global constants for the menu choices.
 ISBN_SEARCH = 1
