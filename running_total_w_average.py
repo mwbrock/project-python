@@ -6,7 +6,7 @@
 # average. It prompts the user for a score between 0 and 4, allowing 3 tries
 # before exiting the program.
 
-import sys # Required for sys.exit() 
+import sys # Required for sys.exit function. (NOT in textbook!) 
 
 # Create a global constant variable for the maximum number of tries
 MAX_TRIES = 3
