@@ -1,6 +1,6 @@
 # Copyright © 2014 by Michael Brock
 # Hollywood Movie Rating Program - Version 1
-# Simple Solution.
+# Simple Solution
 
 # Version 1 is a simple program that demonstrates the use of loops and logic
 # control structures to keep a running total in Python. It gives a user 3
