@@ -34,19 +34,19 @@ def main():
     print('program after a third failed attempt. Otherwise, it will display a ')
     print('message indicating what the user entered for the star rating was noted.\n ')
 
-    # Get initial input from the user.
+    # Get initial input from the user and assign it to rating variable.
     rating = float(input('Enter a star rating between 0 and 4: '))
 
     # Create an accumulator variable to keep a running total for the number of
     # tries in the input validation loop and initialize it to 1 to account for
-    # the initial try from the first entry. If you set it to 0, it will not work
-    # properly and gives the user four tries instead of three as instructed.
+    # the first try from the first entry. If you set it to 0, then it will NOT
+    # work properly and gives the user four tries instead of three as assigned.
     tries = 1
 
     # Validate user input: While rating is out of range, display a helpful error
     # message and prompt the user to enter a valid number until maximum number
-    # of tries is reached, then either exit the program immediately or display a
-    # success message and exit the program.
+    # of tries is reached, then either exit the program immediately, or display
+    # a success message and exit the program.
     while rating < 0 or rating > 4:
         # Display a helpful error message.
         print('ERROR: Invalid input. Valid numbers range between 0 and 4 (inclusive). ')
