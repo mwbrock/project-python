@@ -7,7 +7,7 @@
 # attempts to enter a valid star rating for the featured movie, then it either
 # displays an error message after a third failed attempt, exiting the program,
 # or displays a success message, indicating what the user entered has been
-# noted and exits the program.
+# noted, and exits the program.
 
 ###########################################################################
 # NOTE: Versions 1 & 2 didn't quite satisfy the assignment requirements,  #
