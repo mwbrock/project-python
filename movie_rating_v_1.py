@@ -50,11 +50,12 @@ def main():
     while rating < 0 or rating > 4:
         # Display a helpful error message.
         print('ERROR: Invalid input. Valid numbers range between 0 and 4 (inclusive). ')
-        # Get input from the user again.
+        # Get input from the user again...
         rating = float(input('Enter a star rating between 0 and 4: '))
+        # Add 1 to the tries accumulator variable.
         tries += 1
-        # If maximum number of tries is reached, then display an error message
-        # and exit the program.
+        # If maximum number of tries is reached and rating is out of range, then
+        # display an error message and exit the program.
         if rating < 0 or rating > 4 and tries >= MAX_TRIES:
             print("SORRY! you have reached the maximum number of tries. Exiting the program...")
             sys.exit(0)
@@ -64,8 +65,8 @@ def main():
             print('Thanks for the rating, it has been noted. Exiting the program...')
             sys.exit(0)
 
-    # If the user rating is initially valid, then display a success message and
-    # exit the program.
+    # If the first user rating is valid, then display a success message and exit
+    # the program.
     if rating >= 0 and rating <= 4 and tries < MAX_TRIES:
         print('\nYou entered a star rating of',format(rating, '.2f'),'for the featured movie.')
         print('Thanks for the rating, it has been noted. Exiting the program...')
