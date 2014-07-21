@@ -8,7 +8,7 @@ As a point of information, at the time of this writing, I'm not formally trained
 
 Moreover, I'm only a junior computer programmer / software developer at the moment, who is finishing up my AS degree in Computer/Web Programming and Analysis and about to graduate from SPC with high honors later this month. My formal computer programming training has been focused on the *fundamentals* of C++, C#, Java and Objective-C, along with cross-platform mobile device and web applications development using HTML5, CSS3 and JavaScript. 
 
-So I'm relatively new to computer programming and admittedly still have a lot to learn. I'm also new to GitHub and still learning its capabilities, features and uses, which is one of my internship learning objectives. Another one of my learning objectives involves researching *open source* projects and contributing something to one of them.
+So I'm relatively new to computer programming and admittedly still have a lot to learn. I'm also new to GitHub and am still discovering its many capabilities, features and uses, which is one of my internship learning objectives. Another one of my learning objectives involves researching *open source* projects and contributing something to one of them.
 
 However, I've been very busy with not only my various internship position's responsibilities but also many personal obligations and unexpected obstacles that have made pursuing these learning objectives quite a challenge. For example, my home computer crashed recently with the dreaded "Blue Screen of Death" due to memory and disk errors, which required a friend's help in repairing and took over a week to fix.
 
