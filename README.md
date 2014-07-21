@@ -18,4 +18,4 @@ While I'm providing neither a license such as the GNU General Public License, no
 
 So, according to the preceding explanation, as I understand it, this repo and the Python programs that comprise it are considered *open source* in nature and thus <code>project-python</code> should be regarded as an *open source* project, which is clearly my intent. Hence, I welcome other programmers to share their own Python programs, tips, tricks or comments here for educational purposes. And fork away, of course!  :)
 
-<small>Copyright &copy; July 2014 by Michael Brock. All Rights Reserved.</small>
+<p style="font-size: small; text-align: center;">Copyright &copy; July 2014 by Michael Brock. All Rights Reserved.</p>
