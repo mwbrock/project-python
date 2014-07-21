@@ -14,7 +14,7 @@ However, I've been very busy with not only my various internship position's resp
 
 Therefore, I merely decided to just start my own *open source* project in the form of this repo: project-python. Now I realize that there may be some differences of opinion and/or varied interpretations as to what *open source* means. As such, let me clarify the context in which the term *open source* is being used herein. 
 
-While I'm not providing a license such as the GNU General Public License with any of these programs, I am sharing them freely in a public repo via GitHub, from which anyone is allowed to view and fork their source code. In its most basic form, *open source* refers to computer programs/software whose source code *"can be freely used, changed, and shared (in modified or unmodified form) by anyone"* (http://opensource.org). 
+While I'm providing neither a license such as the GNU General Public License, nor a warranty of any kind with these programs, I'm sharing them freely in a public repo via GitHub, from which anyone is allowed to view and fork their source code. And, in its most basic form, *open source* refers to computer programs/software whose source code *"can be freely used, changed, and shared (in modified or unmodified form) by anyone"* (http://opensource.org). 
 
 So, by my understanding of the preceding definition, this repo and the Python programs that comprise it are considered *open source* in nature. Hence, I welcome other programmers to share their own Python programs, tips, tricks or comments here for educational purposes. And fork away, of course!  ;)
 
