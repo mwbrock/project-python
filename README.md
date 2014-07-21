@@ -16,6 +16,6 @@ Although I've been able to get a pretty good grasp on the basics of GitHub from 
 
 While I'm providing neither a license such as the GNU General Public License, nor a warranty of any kind with these programs, I'm sharing them - "as is" - freely in a public repo via GitHub, from which anyone is allowed to view and fork their source code. And, in its most basic form, *open source* refers to computer programs/software whose source code *"can be freely used, changed, and shared (in modified or unmodified form) by anyone"* (http://opensource.org). 
 
-So, by my understanding of the preceding description, this repo and the Python programs that comprise it are considered *open source* in nature. Hence, I welcome other programmers to share their own Python programs, tips, tricks or comments here for educational purposes. And fork away, of course!  ;)
+So, according to the preceding description, as I understand it, this repo and the Python programs that comprise it are considered *open source* in nature. Hence, I welcome other programmers to share their own Python programs, tips, tricks or comments here for educational purposes. And fork away, of course!  ;)
 
 Copyright © July 2014 by Michael Brock. All Rights Reserved.
